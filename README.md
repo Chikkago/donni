@@ -1,2 +1,2 @@
 # Donni
-Link: https://chikkago.github.io/donni/
+Link: https://chikkago.github.io/donni/index.html
